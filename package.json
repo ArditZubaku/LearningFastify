@@ -1,0 +1,20 @@
+{
+  "name": "learnfastify",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "tsx watch main.ts"
+  },
+  "author": "ArditZubaku",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/mongodb": "^9.0.1",
+    "ajv": "^8.17.1",
+    "fastify": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.4",
+    "pino-pretty": "^11.2.2",
+    "tsx": "^4.19.1",
+    "typescript": "^5.6.2"
+  }
+}
